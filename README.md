@@ -2,7 +2,7 @@
 
 **MSMC Mobile Version** is a mobile-focused **Minecraft account checker** built around Microsoft/Hotmail authentication workflows.
 
-> ⚠️ **For authorized checking/scraping.** Use only accounts you own or have explicit permission to test.
+> ⚠️ **For authorized checking/scraping.**.
 
 ## ✨ Features
 
