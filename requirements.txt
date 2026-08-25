@@ -1,0 +1,10 @@
+colorama==0.4.6
+console==0.9912
+readchar==4.2.2
+requests[socks]==2.34.2
+urllib3==2.7.0
+configparser==7.2.0
+stem==1.8.2
+git+https://github.com/ammaraskar/pyCraft.git
+PySocks==1.7.1
+cryptography==48.0.1
