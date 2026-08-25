@@ -19,7 +19,7 @@
 ### 1. Clone
 
 ```bash
-git clone https://github.com/itz-babaji/MSMC-MOBILE-VERSION.git
+git clone https://github.com/itz-babaji/MSMC-MOBILE-VERSION-.git
 cd MSMC-MOBILE-VERSION
 ```
 
